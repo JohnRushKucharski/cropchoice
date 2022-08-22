@@ -1,0 +1,6 @@
+{
+    "autoDocstring.quoteStyle": "'''",
+    "autoDocstring.startOnNewLine": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
